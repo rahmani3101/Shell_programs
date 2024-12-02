@@ -65,5 +65,5 @@ To run a script, use:
 
 
 ## Contact
-[Mohammad Asad Rahmani \n
- email : asadrahmani3101@gmail.com ]
+[Mohammad Asad Rahmani]
+ [email : asadrahmani3101@gmail.com ]
