@@ -1,7 +1,7 @@
 # Shell Programmings 
 
 ## Overview
-This repository contains a collection of shell scripts demonstrating various shell programming techniques, useful system administration tasks, and practical scripting solutions.
+This repository contains a collection of shell scripts demonstrating various shell programming techniques
 
 ## Prerequisites
 - Unix-like operating system (Linux, macOS)
